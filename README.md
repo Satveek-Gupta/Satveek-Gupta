@@ -1,6 +1,5 @@
 <h2> Hi, I'm Satveek Gupta! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>Student <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-</em></p>
+<p><em>Student</em></p>
 
 
 [![Linkedin: Satveek Gupta](https://img.shields.io/badge/-satveek-gupta?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/satveek-gupta/)](https://www.linkedin.com/in/satveek-gupta/)
