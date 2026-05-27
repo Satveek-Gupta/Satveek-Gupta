@@ -1,23 +1,67 @@
-<h2> Hi, I'm Satveek Gupta! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>Student</em></p>
+<div align="center">
+<h1>Hi, I'm Satveek Gupta!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="75"></h1>
 
+### Building scalable systems & exploring distributed architectures 🚀
 
-[![Linkedin: Satveek Gupta](https://img.shields.io/badge/-satveek-gupta?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/satveek-gupta/)](https://www.linkedin.com/in/satveek-gupta/)
-[![GitHub Satveek Gupta](https://img.shields.io/github/followers/Satveek-Gupta?label=follow&style=social)](https://github.com/Satveek-Gupta)
-
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const satveek = {
-  pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Java],
-  tools: [React, Redux, Node, Styled-Components, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+</div>
 
 ---
+
+## 🧠 About Me
+
+```ts
+const satveek = {
+    OS       : ["macOS"],
+    languages: {
+        strong : ["Java", "TypeScript", "JavaScript"],
+        learning: ["Go"],
+    },
+    programming: {
+        backend  : ["Node.js", "Express", "REST APIs", "Microservices"],
+        frontend : ["React", "Redux", "HTML", "CSS"],
+        databases: ["MongoDB", "MySQL", "PostgreSQL],
+        devOps   : ["Docker", "AWS"],
+        patterns : ["event-driven", "design-systems", "microservices"],
+    },
+    tools    : ["Sentry", "Grafana", "VS Code", "Git"],
+    currently: "Backend dev open to SDE roles 🚀",
+};
+```
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,ts,js,react,nodejs,redux,mongodb,mysql,postgres,docker,aws,git,vscode&theme=dark"/>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Satveek-Gupta&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Always building, always learning."*
+
+</div>
+
+---
+
+<div align="center">
+
+<h1 style="font-size:72px; font-weight:900; margin:0;">
+satveek.dev
+</h1>
+
+</div>
