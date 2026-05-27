@@ -56,7 +56,6 @@ const satveek = {
 
 </div>
 
----
 
 <div align="center">
 
