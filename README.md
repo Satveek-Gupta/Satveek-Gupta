@@ -19,7 +19,7 @@ const satveek = {
     programming: {
         backend  : ["Node.js", "Express", "REST APIs", "Microservices"],
         frontend : ["React", "Redux", "HTML", "CSS"],
-        databases: ["MongoDB", "MySQL", "PostgreSQL],
+        databases: ["MongoDB", "MySQL", "PostgreSQL"],
         devOps   : ["Docker", "AWS"],
         patterns : ["event-driven", "design-systems", "microservices"],
     },
